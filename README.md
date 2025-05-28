@@ -9,4 +9,5 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | w2solo | http://w2solo.com/ | 独立开发者社区 |
 |  阿里盘搜 | https://www.maoliyun.com/ |  猫狸云,猫狸云搜索 |
 ## 最近更新
+- [两行代码，将Win11邮件菜单回滚到经典菜单](https://github.com/dotneteye/myblog/issues/2)--2025-05-28
 - [奇趣网站收藏家](https://github.com/dotneteye/myblog/issues/1)--2025-05-06
