@@ -4,7 +4,7 @@
 
 [iFixit](https://zh.ifixit.com/)是一个致力于推广维修文化的开源平台，拥有全球最大的免费维修指南库。这里不仅是DIY爱好者的乐园，更是环保行动者的集结地。
 
-![iFixit](https://github.com/user-attachments/assets/1aec0a03-452b-4a5a-a6c3-131b96e73e1b)
+![iFixit](https://github.com/user-attachments/assets/57fbe09a-901c-4510-be13-2d398415b612)
 
 ## 核心功能
 
